@@ -1,5 +1,3 @@
-Rayssa Mell de Souza Silva - 860210
-
 -----GUIA_06-----
 
 01.) Mapa Veitch-Karnaugh: Mintermos
