@@ -1,0 +1,170 @@
+$date
+	Sun Sep 29 18:20:48 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module Guia_0900 $end
+$var wire 1 ! clk $end
+$scope module CLK1 $end
+$var reg 1 ! clk $end
+$upscope $end
+$upscope $end
+$scope module Guia_0903 $end
+$var wire 1 " p1 $end
+$var wire 1 # clk_out $end
+$var reg 1 $ clk $end
+$var reg 1 % reset $end
+$scope module pulse $end
+$var wire 1 # clock $end
+$var reg 1 " signal $end
+$upscope $end
+$scope module t1 $end
+$var wire 1 $ clk $end
+$var wire 1 # clk_out $end
+$var wire 1 % reset $end
+$var reg 2 & neg_count [1:0] $end
+$var reg 2 ' pos_count [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx '
+bx &
+x%
+0$
+x#
+x"
+0!
+$end
+#50
+1%
+#120
+b0 '
+1$
+#150
+0%
+#240
+0$
+#360
+b1 '
+1$
+#480
+0$
+#600
+1"
+1#
+b10 '
+1$
+#720
+0$
+#840
+x#
+b0 '
+1$
+#960
+0$
+#1080
+b1 '
+1$
+#1200
+0$
+#1320
+1#
+b10 '
+1$
+#1440
+0$
+#1560
+x#
+b0 '
+1$
+#1680
+0$
+#1800
+b1 '
+1$
+#1920
+0$
+#2040
+1#
+b10 '
+1$
+#2160
+0$
+#2280
+x#
+b0 '
+1$
+#2400
+0$
+#2520
+b1 '
+1$
+#2640
+0$
+#2760
+1#
+b10 '
+1$
+#2880
+0$
+#3000
+x#
+b0 '
+1$
+#3120
+0$
+#3240
+b1 '
+1$
+#3360
+0$
+#3480
+1#
+b10 '
+1$
+#3600
+0$
+#3720
+x#
+b0 '
+1$
+#3840
+0$
+#3960
+b1 '
+1$
+#4080
+0$
+#4200
+1#
+b10 '
+1$
+#4320
+0$
+#4440
+x#
+b0 '
+1$
+#4560
+0$
+#4680
+b1 '
+1$
+#4800
+0$
+#4920
+1#
+b10 '
+1$
+#5040
+0$
+#5150

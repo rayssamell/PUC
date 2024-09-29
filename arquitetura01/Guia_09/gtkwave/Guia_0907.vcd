@@ -1,0 +1,70 @@
+$date
+	Sat Sep 28 10:39:07 2024
+$end
+$version
+	GTKWave Analyzer v3.3.90 (w)1999-2018 BSI
+$end
+$timescale
+	1 s
+$end
+$scope module Guia_0907 $end
+$var wire 1 " clock $end
+$var wire 1 $ p1 $end
+$var wire 1 # p $end
+$upscope $end
+$enddefinitions $end
+$dumpvars
+#0
+0#
+0"
+1$
+#8
+0$
+#12
+1$
+1"
+#20
+0$
+#24
+1$
+0"
+#32
+0$
+#36
+1$
+1"
+#44
+0$
+#48
+1$
+0"
+#56
+0$
+#60
+1$
+1"
+#68
+0$
+#72
+1$
+0"
+#80
+0$
+#84
+1$
+1"
+#92
+0$
+#96
+1$
+0"
+#104
+0$
+#108
+1$
+1"
+#116
+0$
+#120
+1$
+0"
