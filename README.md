@@ -10,9 +10,9 @@ Este repositório foi criado para armazenar e organizar atividades desenvolvidas
 - 📊 Projetos
 - 💡 Trabalhos práticos
 
-**Curso:** *[Ciência da Computação]*  
-**Instituição:** *[PUC Minas]*  
-**Semestre Atual:** *[2°]*  
+**Curso:** *Ciência da Computação*  
+**Instituição:** *PUC Minas*  
+**Semestre Atual:** *2°*  
 
 ---
 
