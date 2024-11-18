@@ -21,7 +21,7 @@ Este repositório foi criado para armazenar e organizar atividades desenvolvidas
 Abaixo está a estrutura de pastas do repositório:
 
 ```plaintext
-├── aeds/        # Atividades de Algoritmos e Estruturas de Dados
-├── arquitetura01
-├── projetos/     # Projetos maiores e/ou interdisciplinares
-└── README.md     # Documentação do repositório
+├── aeds/          # Atividades de Algoritmos e Estruturas de Dados
+├── arquitetura01  # Atividades de Arquitetura de Computadores I
+├── projetos/      # Projetos maiores e/ou interdisciplinares
+└── README.md      # Documentação do repositório
