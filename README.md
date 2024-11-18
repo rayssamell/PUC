@@ -25,3 +25,5 @@ Abaixo está a estrutura de pastas do repositório:
 ├── arquitetura01  # Atividades de Arquitetura de Computadores I
 ├── projetos/      # Projetos maiores e/ou interdisciplinares
 └── README.md      # Documentação do repositório
+```
+Nota: Este repositório é apenas para fins educativos e para acompanhar minha evolução no curso. 😊
