@@ -3,7 +3,11 @@
 Este repositório contém atividades e exercícios práticos relacionados a algoritmos e estruturas de dados, implementados nas linguagens C e Java.
 
 ## Estrutura do Repositório
+- `aeds1/` - Atividades de Algoritmos e Estruturas de Dados I
+- `aeds2/` - Atividades de Algoritmos e Estruturas de Dados II
 
-- `C/` - Contém implementações e atividades em C.
-- `Java/` - Contém implementações e atividades em Java.
+⚙️ Linguagens Utilizadas
+
+- C
+- Java
 
