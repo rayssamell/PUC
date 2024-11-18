@@ -10,3 +10,18 @@ Este repositório foi criado para armazenar e organizar atividades desenvolvidas
 - 📊 Projetos
 - 💡 Trabalhos práticos
 
+**Curso:** *[Ciência da Computação]*  
+**Instituição:** *[PUC Minas]*  
+**Semestre Atual:** *[2°]*  
+
+---
+
+## 📁 Estrutura do Repositório
+
+Abaixo está a estrutura de pastas do repositório:
+
+```plaintext
+├── aeds/        # Atividades de Algoritmos e Estruturas de Dados
+├── arquitetura01
+├── projetos/     # Projetos maiores e/ou interdisciplinares
+└── README.md     # Documentação do repositório
