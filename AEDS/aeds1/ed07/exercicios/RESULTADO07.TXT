@@ -1,0 +1,6 @@
+Quantidade (n): 3
+Soma: 0.0099
+Quantidade (n): 6
+Soma: 1.2499
+Quantidade (n): 5
+Soma: 0.2499

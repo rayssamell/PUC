@@ -1,0 +1,2 @@
+Quantidade (n): 3
+Soma: 1.0231

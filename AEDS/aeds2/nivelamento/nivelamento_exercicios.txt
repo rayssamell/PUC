@@ -1,0 +1,119 @@
+Rayssa Mell de Souza Silva - 860210
+
+- Procurar elemento em array
+
+bool procurarElemento(int array[], int n, int num){
+	bool resp = false;
+	for(int i = 0; i < n; i++){
+		if(array[i] == num)
+			resp = true;
+			i    = n;
+	}
+	return resp;
+}
+
+int main (){
+	int n, num;
+
+	//quantidade de valores
+	scanf("%d", &n);
+
+	if(n > 0){
+		// elementos do array
+		int array[n];
+		for(int i = 0; i < n; i++){
+			scanf("%d", &array[i]);
+		}
+		// elemento a ser procurado
+		scanf("%d", &num);
+
+		if(procurarElemento(array, n, num))
+		    printf("%d esta no array", num);
+		else
+		    printf("%d nao esta no array", num);
+}
+
+- Procurar elemento no array ordenado crescente
+
+bool procurarElemento(int array[], int n, int num){
+	int meio = n / 2;
+	int dir = n - 1;
+	int esq = 0;
+
+	if(num == array[meio]){
+
+	} else {
+	    for(int i = meio; i < n; i++){
+		
+	    }
+	}
+	
+}
+
+int main (){
+	int n, num;
+
+	//quantidade de valores
+	scanf("%d", &n);
+
+	if(n > 0){
+		// elementos do array
+		int array[n];
+		for(int i = 0; i < n; i++){
+			scanf("%d", &array[i]);
+		}
+		// elemento a ser procurado
+		scanf("%d", &num);
+
+		if(procurarElemento(array, n, num))
+		    printf("%d esta no array", num);
+		else
+		    printf("%d nao esta no array", num);
+}
+
+- O Código verifica se "c" é uma vogal, "A, E, I, O, U" ou "a, e, i, o, u".
+
+- Corrigindo o Código
+boolean isConsoante(String s, int n){
+   boolean resp = true;
+   if (n!= s.length()){
+       if(s.charAt(n) < '0' || s.charAt(n) > '9' || isVogal(s.charAt(n) == true){
+	  resp = false;
+       } else{
+          resp = isConsoante(s, n + 1);
+       }
+   } else {
+          resp = false;
+   }
+   return resp;
+}
+
+* Simplificando
+boolean isConsoante(String s, int i){
+    boolean resp = true;
+   
+    if(i == s.length()) {
+          resp = true;
+    } else if (isConsoante(s.charAt(i)) == false){
+          resp = false;
+    } else {
+          resp = isConsoante(s, i + 1);
+    }
+
+    return resp;
+}
+
+- A primeira versão.
+
+- Opinião sobre o código, o while poderia ser retirado já que a verificação feita dentro da condição é
+a mesma feita no if, ou seja ja foi verificada e o retorno já foi definido.
+
+- (i--) é pós decremento, então o valor retornado será i, sem alterações.
+- (--i) é pré-decremento, então ele subtrai uma unidade e retorna o novo valor.
+
+- O programa mostra uma série de números, começa com "1, 1, 1" e entra em looping infinito.
+
+- Pois, o operador << desloca todos os bits de x uma posição à esquerda e o operador >> desloca todos os bits x de uma posição para direita, ou seja:
+  23(10) -> 10111 (2)   x << 1 = 101110 -> 46 (10)   * Deslocar à esquerda (<<) por 1 posição é equivalente a multiplicar o número por 2.
+  23(10) -> 10111 (2)   x >> 1 = 1011   -> 11 (10)   * Deslocar à esquerda (<<) por 1 posição é equivalente a dividir o número por 2.
+            
