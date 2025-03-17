@@ -26,4 +26,11 @@ Abaixo está a estrutura de pastas do repositório:
 ├── projetos/      # Projetos maiores e/ou interdisciplinares
 └── README.md      # Documentação do repositório
 ```
+
+---
+## 📁 Linguagens
+* Java
+* C
+  
+```
 Nota: Este repositório é apenas para fins educativos e para acompanhar minha evolução no curso. 😊
