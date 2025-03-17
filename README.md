@@ -12,7 +12,7 @@ Este repositório foi criado para armazenar e organizar atividades desenvolvidas
 
 **Curso:** *Ciência da Computação*  
 **Instituição:** *PUC Minas*  
-**Semestre Atual:** *2°*  
+**Semestre Atual:** *3°*  
 
 ---
 
