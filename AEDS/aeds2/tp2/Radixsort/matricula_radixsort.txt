@@ -1,1 +1,0 @@
-Matricula: 860210	Numero de Comparacoes: 276	Numero de Movimentações: 4914	Tempo de Execução: 0.000095	

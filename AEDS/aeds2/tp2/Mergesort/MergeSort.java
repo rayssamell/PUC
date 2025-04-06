@@ -288,8 +288,8 @@ public class MergeSort {
         }
     }
 
-     //---------------- Metodo para ordenar Lista de Pokemons pelo nome 
-     public void sort() {
+    //---------------- Metodo para ordenar Lista de Pokemons pelo nome 
+    public void sort() {
         mergesort(0, pokemons.size()-1);
     }
 

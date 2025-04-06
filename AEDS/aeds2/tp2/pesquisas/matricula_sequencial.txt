@@ -1,1 +1,0 @@
-Matricula: 860210 	Tempo de Execução: 0.004 s	Número de Comparações: 1156	
