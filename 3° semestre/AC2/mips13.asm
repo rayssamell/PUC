@@ -11,7 +11,7 @@ bne $t1, $zero, modulo    # (t1 != 0)
 j registrar                
 
 modulo:
-sub $s0, $zero, $s0  # $t1 = $t1 - t2 (se t2=-1, soma 1)
+sub $s0, $zero, $s0  # $t1 = $t1 - t2 
 
 registrar:
 sw  $s0, 0 ($t0)          # MEM[t0] = A
